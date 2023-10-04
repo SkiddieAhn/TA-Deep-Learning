@@ -64,12 +64,12 @@ python eval.py --dataset=ped2 --trained_model=best_model_ped2 --show_curve=True
 ```
 
 ## Results
-- The validation results can be found on the path ```results```by AUC graph.
-- The test results can be found on the path ```results/ped2/{best_iter}``` by ROC Curve, Anomaly Score graph, etc.
-  
+#### Validation results can be found on the path ```results```by AUC graph.  
 | AUC graph (ped2)                                                                             |
 |----------------------------------------------------------------------------------------------------------------------|
 |![auc_graph](https://github.com/SkiddieAhn/SkiddieAhn/assets/52392658/9c031b26-170a-4cf0-acee-bcd121e3f601) | 
+
+#### Evaluation results can be found on the path ```results/ped2/{best_iter}``` by ROC Curve, Anomaly Score, etc.
 
 | ROC Curve with AUC (ped2)                                                                               |
 |----------------------------------------------------------------------------------------------------------------------|
