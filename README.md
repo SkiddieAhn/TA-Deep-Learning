@@ -1,5 +1,5 @@
 # TA-Deep-Learning
-Code for hands-on lectures, Teaching Assistant file on Deep learning lecture.  
+Codes for hands-on lectures, Teaching Assistant files on Deep learning lecture.  
 'DEEP LEARNING BASED ANOMALY DETECTION MODELING (GEK6207.01-00), Yonsei University'
 
 * <strong>DCGAN</strong>: [Deep Convolutional GAN](https://arxiv.org/pdf/1511.06434.pdf) (ICLR 2016)
