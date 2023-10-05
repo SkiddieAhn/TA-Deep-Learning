@@ -1,5 +1,5 @@
 # Vision Transformer 
-I Provide the ```PyTorch tutorial code``` for understanding ViT (Vision Transformer) models.
+Provide the ```PyTorch tutorial code``` for understanding ViT (Vision Transformer) models.
   
 Pytorch implementation of image classification paper for ICLR 2021: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf).  
 Most codes were obtained from the following Blog page: [[Link]](https://towardsdatascience.com/implementing-visualttransformer-in-pytorch-184f9f16f632)
