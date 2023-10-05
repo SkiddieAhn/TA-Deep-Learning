@@ -1,6 +1,6 @@
 # Future Frame Prediction 
 Pytorch implementation of anomaly prediction for CVPR 2018:[Future Frame Prediction for Anomaly Detection – A New Baseline](https://arxiv.org/pdf/1712.09867.pdf).  
-Most of the code was obtained through the following GitHub: [Link](https://github.com/feiyuhuahuo/Anomaly_Prediction)
+Most codes were obtained from the following GitHub page: [[Link]](https://github.com/feiyuhuahuo/Anomaly_Prediction)
 
 I only trained the ped2 dataset, the result:  
 
