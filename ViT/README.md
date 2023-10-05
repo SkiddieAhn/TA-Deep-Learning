@@ -69,7 +69,7 @@ Most codes were obtained from the following Blog page: [[Link]](https://towardsd
 ```
 1. Convert the row vector (1x16) into a 2D matrix (4x4).  
 2. Resize the matrix to the original image size (32x32).  
-3. Perform min-max normalization on the matrix (scaling values to range between 0 and 1).  
-4. Multiply the matrix with the original image and then add it to the original image (incorporating the focused area into the original image).  
+3. Perform min-max normalization on the matrix. (scaling values to range between 0 and 1) 
+4. Multiply the matrix with the original image and then add it to the original image. (incorporating the focused area into the original image)  
 5. Multiply the resulting matrix by 2 and visualize it (amplifying the representation of the focused area).  
 ```
