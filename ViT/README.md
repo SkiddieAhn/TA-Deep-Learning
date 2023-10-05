@@ -64,7 +64,7 @@ Most codes were obtained from the following Blog page: [[Link]](https://towardsd
 
 ## How to Visualize the Image?
 - The attention map's row vector corresponding to the ```cls token``` was utilized.  
-- The trained cls token serves as the representation of the image, indicating where the model is focusing on in the image through the cls token portion of the attention map.
+- The trained cls token serves as the ```representation of the image```, indicating where the model is focusing on in the image through the cls token portion of the attention map.
 - For dramatic visualization, the following steps were employed:
 ```
 1. Convert the row vector (1x16) into a 2D matrix (4x4).  
