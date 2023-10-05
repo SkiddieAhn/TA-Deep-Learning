@@ -67,6 +67,7 @@ Most codes were obtained from the following Blog page: [[Link]](https://towardsd
 - The trained cls token serves as the ```representation of the image```, indicating where the model is focusing on in the image through the cls token portion of the attention map.
 - For dramatic visualization, the following steps were employed:
 ```
+0. Create a single row vector by averaging 'num_head' row vectors. (using average attention weights)  
 1. Convert the row vector (1x16) into a 2D matrix (4x4).  
 2. Resize the matrix to the original image size (32x32).  
 3. Perform min-max normalization on the matrix. (scaling values to range between 0 and 1) 
