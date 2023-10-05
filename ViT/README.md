@@ -1,7 +1,7 @@
 # Vision Transformer 
 Provide the ```PyTorch tutorial code``` for understanding ViT (Vision Transformer) models.
   
-Pytorch implementation of image classification paper for ICLR 2021: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf).  
+Original paper: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf). *[ICLR 2021]*  
 Most codes were obtained from the following Blog page: [[Link]](https://towardsdatascience.com/implementing-visualttransformer-in-pytorch-184f9f16f632)
 
 ### The network pipeline.  
@@ -29,14 +29,17 @@ Most codes were obtained from the following Blog page: [[Link]](https://towardsd
 · optimizer: SGD
 
 ## Results
-- **Loss value**
+- **Loss graph**  
+![vit_loss](https://github.com/SkiddieAhn/SkiddieAhn/assets/52392658/460c3c82-afc0-4474-98e6-36f379dee1c8)   
+· To extract the best performance among 100 epochs, ```early stopping``` was employed.  
+· In this experiment, the validation set and the test set are the same.  
+· You can verify the Best Model through ```cifar_vit.pth```.
 
-  
 - **Accuracy**  
 
 |     Accuracy                  |CIFAR-10    |
 |:------------------------:|:-----------:|
-| 10,000 test images  |57 %        |
+| 10,000 test images  |57 %        |  
 
 · The ViT model requires more data compared to CNNs due to its ```lack of inductive bias```.  
 · The dataset used in the tutorial code is small in size, which resulted in lower performance.  
