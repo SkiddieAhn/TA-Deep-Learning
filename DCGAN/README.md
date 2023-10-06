@@ -1,5 +1,5 @@
 # DCGAN 
-Provide the ```PyTorch tutorial code``` for understanding DCGAN (Deep Convolutional GAN) models.
+Provide the ```PyTorch tutorial code``` for understanding DCGAN (Deep Convolutional GAN) model.
 
 Original paper: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf). *[ICLR 2016]*  
 All codes were obtained from the official pyTorch page: [[Link]](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
