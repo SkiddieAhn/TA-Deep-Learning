@@ -18,16 +18,16 @@ Most codes were obtained from the following Blog page: [[Link]](https://towardsd
 
 ## Setting
 - **Model**  
-· Patch Size: 4x4  
-· Embedding Size: 192  
-· Num Layers: 12  
-· Num Classes: 10  
-· Num Heads: 12
+· patch size: 4x4  
+· embedding size: 192  
+· num layers: 12  
+· num classes: 10  
+· num heads: 12
 - **Training**   
-· Batch Size: 256  
-· Num Epoch: 50  
-· Optimizer: Adam (lr=0.001, weight_decay=5e-5)  
-· Data Augmentation: RandomCrop(32, padding=4), RandomHorizontalFlip()
+· batch size: 256  
+· num epoch: 50  
+· optimizer: Adam (lr=0.001, weight_decay=5e-5)  
+· data augmentation: RandomCrop(32, padding=4), RandomHorizontalFlip()
 
 ## Results
 - **Loss graph**  
