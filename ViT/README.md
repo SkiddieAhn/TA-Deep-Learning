@@ -18,15 +18,15 @@ Most codes were obtained from the following Blog page: [[Link]](https://towardsd
 
 ## Setting
 - **Model**  
-· patch size: 4x4  
-· embedding size: 192  
-· num layers: 12  
-· num classes: 10  
-· num heads: 12
+· Patch Size: 4x4  
+· Embedding Size: 192  
+· Num Layers: 12  
+· Num Classes: 10  
+· Num Heads: 12
 - **Training**   
-· batch size: 256  
-· num epoch: 50  
-· optimizer: Adam (lr=0.001, weight_decay=5e-5)  
+· Batch Size: 256  
+· Num Epoch: 50  
+· Optimizer: Adam (lr=0.001, weight_decay=5e-5)  
 · Data Augmentation: RandomCrop(32, padding=4), RandomHorizontalFlip()
 
 ## Results
