@@ -27,6 +27,7 @@ Most codes were obtained from the following Blog page: [[Link]](https://towardsd
 · batch size: 256  
 · num epoch: 50  
 · optimizer: Adam (lr=0.001, weight_decay=5e-5)
+· Data Augmentation: RandomCrop(32, padding=4), RandomHorizontalFlip()
 
 ## Results
 - **Loss graph**  
