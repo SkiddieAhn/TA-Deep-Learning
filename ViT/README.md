@@ -33,7 +33,7 @@ Most codes were obtained from the following Blog page: [[Link]](https://towardsd
 ![vit_loss](https://github.com/SkiddieAhn/SkiddieAhn/assets/52392658/a44bb265-ef73-4671-91c5-d735a291db6c)   
 · To extract the best performance among 50 epochs, ```early stopping``` was employed.  
 · In this experiment, the validation set and the test set are the same.  
-· The best model can be confirmed through ```cifar_vit_pe_conv.pth```.  
+· The best model can be confirmed through ```weight/cifar_vit_pe_conv.pth```.  
 
 - **Accuracy**
     
