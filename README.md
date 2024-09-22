@@ -8,8 +8,8 @@ Codes for hands-on lectures, Teaching Assistant files on Deep learning lecture.
 * <strong>Frame-Prediction</strong>: [Future Frame Prediction for Video Anomaly Detection](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Future_Frame_Prediction_CVPR_2018_paper.pdf) (CVPR 2018)
 
 ## 📖 Lecture Slides
-* <strong>DCGAN lecture slide</strong>: [[Link](https://shacoding.com/2023/11/24/%ec%bd%94%eb%94%a9-%ec%8b%a4%ec%8a%b5-deep-convolutional-generative-adversarial-networks/)] (23.11.09)
-* <strong>ViT lecture slide</strong>: [[Link](https://shacoding.com/2023/11/24/%ec%bd%94%eb%94%a9-%ec%8b%a4%ec%8a%b5-vision-transformer/)] (23.11.16)
-* <strong>Frame-Prediction lecture slide</strong>: [[Link](https://shacoding.com/2023/11/24/%ec%bd%94%eb%94%a9-%ec%8b%a4%ec%8a%b5-future-frame-prediction-for-anomaly-detection/)] (23.11.23)
+* <strong>DCGAN lecture slide</strong>: [[Link](https://shacoding.com/wp-content/uploads/2023/11/Practice-1-DCGAN231109.pdf)] (23.11.09)
+* <strong>ViT lecture slide</strong>: [[Link](https://shacoding.com/wp-content/uploads/2023/11/Practice-2-ViT231116.pdf)] (23.11.16)
+* <strong>Frame-Prediction lecture slide</strong>: [[Link](https://shacoding.com/wp-content/uploads/2024/04/Practice-3-FFP-231123.pdf)] (23.11.23)
 
 
